@@ -1,0 +1,1 @@
+clang++ -o program src/*.c -I include -lSDL2 -lm
